@@ -1,0 +1,9 @@
+---
+force: true
+---
+
+{
+  "name": "{{ name | kebab_case }}",
+  "version": "0.0.1",
+  "private": true
+}
